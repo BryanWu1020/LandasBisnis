@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/LandasBisnis_BackEnd.props" />
+</Project>
